@@ -11,5 +11,6 @@ This is opposed to having an inline system that monitors all network traffic goi
 - Elastic
 - Logstash
 - Kibana
+3. Instructions from [elastic.co](https://www.elastic.co/elastic-stack)
 
 ## Procedure
